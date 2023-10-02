@@ -40,3 +40,7 @@
     transform: rotate(360deg);
   }
 } */
+
+.accordion-button ::after{
+  filter: invert(1);
+}
